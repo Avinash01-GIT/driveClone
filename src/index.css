@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .siderBarLink {
+    @apply flex items-center gap-5 cursor-pointer h-[40px] hover:bg-[#E9EEF6] hover:rounded-2xl hover:w-[250px] p-2 dark:hover:bg-[#282A2C] sm:hidden lg:flex lg:gap-5
+  }
+  
+}
