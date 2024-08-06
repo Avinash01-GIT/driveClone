@@ -192,7 +192,7 @@ const Navbar = () => {
           <img
             src={GDRIVE}
             alt="drivelogo"
-            className="lg:h-[45px] lg:w-[50px] sm:h-[30px] sm:w-[40px]"
+            className="lg:h-[30px] lg:w-[35px] sm:h-[30px] sm:w-[40px] mr-2"
           />
           <p className="sm:flex lg:gap-2">
             <span className="lg:font-bold lg:text-2xl sm:text-xl">Google</span>
