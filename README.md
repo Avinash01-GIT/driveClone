@@ -31,8 +31,6 @@ This project is a clone of Google Drive built using modern web technologies. The
 ## Getting Started
 
 ### Prerequisites
-
-- Node.js (v14 or later)
 - npm (v6 or later) or Yarn (v1.22 or later)
 - Firebase project setup (credentials for Firebase Authentication, Database, and Storage)
 
